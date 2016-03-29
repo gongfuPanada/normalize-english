@@ -6,13 +6,22 @@
   "scripts": {
     "test": "mocha test/basic.js -R spec -t 4000"
   },
-  "author": {
-    "name": "Brandon Horst"
-  },
+  "author": "Brandon Horst",
   "license": "MIT",
   "dependencies": {},
   "devDependencies": {
     "mocha": "^2.4.5",
     "should": "^8.3.0"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brandonhorst/normalize-english.git"
+  },
+  "bugs": {
+    "url": "https://github.com/brandonhorst/normalize-english/issues"
+  },
+  "homepage": "https://github.com/brandonhorst/normalize-english#readme"
 }
