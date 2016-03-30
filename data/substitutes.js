@@ -384,6 +384,7 @@ prof. professor
  anyway
  anyways
  appeared_to_be was
+ app application
  apple_iphone iphone
  apple_iphone iphone
  are_lead_by are+led+by
