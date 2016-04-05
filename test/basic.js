@@ -58,5 +58,9 @@ describe('Normalizer', function(){
       norm.clean("I said “shut up”").should.eql('i said "shut up"');
       norm.clean("œ").should.eql('');
     });
+
+    it("remove emoji", function() {
+      norm.clean("😊").should.eql("");
+    });
   });
 });
