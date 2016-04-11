@@ -425,7 +425,6 @@ module.exports = `
  <naw no
  <nay no
  <negative no
- <never_mind> no
  <never> no
  <nice_one
  <nice_to_meet_you hello
