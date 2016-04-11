@@ -1,6 +1,6 @@
 {
   "name": "normalize-english",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Normalize and clean English for chat-like applications",
   "main": "index.js",
   "scripts": {
