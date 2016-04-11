@@ -870,9 +870,13 @@ prof. professor
  i-phone iphone
  i_,_myself_, i
  i_am_convinced_that
+ i_am_curious_about
+ i_am_curious_if
  i_am_not_being_funny_but
  i_am_sorry_that
  i_am_sorry_to_hear_that
+ i_am_just_wondering
+ i_am_wondering
  i_believe_that
  i_do_not_suppose
  i_do_not_suppose_that
@@ -1003,6 +1007,8 @@ prof. professor
  itym i+think+you+mean
  itz it+is
  ive i+have
+ i_was_just_wondering
+ i_was_wondering
  ja yes
  jeez
  jive_with jibe+with
